@@ -1,113 +1,142 @@
-# 🎲 FortDice
+# FORTDICE
 
 ## Digital Impact. Delivered.
 
-[![Website](https://img.shields.io/badge/🌐-Visit_FortDice.com-4A90E2?style=for-the-badge)](https://fortdice.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FortDice-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/fortdice)
-[![Instagram](https://img.shields.io/badge/Instagram-fortdiceagency-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/fortdiceagency)
-[![Facebook](https://img.shields.io/badge/Facebook-FortDice-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/fortdice)
-[![Pinterest](https://img.shields.io/badge/Pinterest-fortdiceagency-E60023?style=for-the-badge&logo=pinterest)](https://pinterest.com/fortdiceagency)
-[![Email](https://img.shields.io/badge/Email-info@fortdice.com-D14836?style=for-the-badge&logo=gmail)](mailto:info@fortdice.com)
+[Visit FortDice.com](https://fortdice.com) | [LinkedIn](https://linkedin.com/company/fortdice) | [Instagram](https://instagram.com/fortdiceagency) | [Facebook](https://facebook.com/fortdice) | [Pinterest](https://pinterest.com/fortdiceagency) | info@fortdice.com
 
 ---
 
-## 🚀 About FortDice
+## ABOUT FORTDICE
 
-**FortDice** is a forward-thinking, full-service digital agency focused on delivering innovative and scalable technology solutions. We specialize in **enterprise software development**, **AI solutions**, and **full-spectrum cloud engineering**.
+FortDice is a forward-thinking, full-service digital agency focused on delivering innovative and scalable technology solutions. We specialize in enterprise software development, AI solutions, and full-spectrum cloud engineering.
 
-> **Trusted by 500+ enterprises worldwide**
+**Trusted by 500+ enterprises worldwide**
 
 ---
 
-## 🎯 Core Services
+## CORE SERVICES
 
-### 💻 Development
+### DEVELOPMENT
+
 | Category | Technologies |
 |----------|--------------|
-| **Web Development** | Python & Django, PHP, WordPress, Drupal, Webflow, Laravel |
-| **Mobile Apps** | iOS (iPhone), Android, Gaming Apps, Finance Apps |
-| **Software** | Custom Software, Testing, Microsoft SharePoint |
+| Web Development | Python & Django, PHP, WordPress, Drupal, Webflow, Laravel |
+| Mobile Apps | iOS, Android, Gaming Apps, Finance Apps |
+| Software | Custom Software, Testing, Microsoft SharePoint |
 
-### ☁️ IT Services
+### IT SERVICES
+
 | Category | Expertise |
 |----------|-----------|
-| **Consulting** | Cloud, IT, ERP, Salesforce, BI & Big Data |
-| **Cloud** | Azure, AWS, Google Cloud |
-| **Security** | Cybersecurity, Penetration Testing, Account Takeover Prevention |
+| Consulting | Cloud, IT, ERP, Salesforce, BI & Big Data |
+| Cloud | Azure, AWS, Google Cloud |
+| Security | Cybersecurity, Penetration Testing, Account Takeover Prevention |
 
-### 📱 Marketing & Branding
+### MARKETING & BRANDING
+
 | Category | Services |
 |----------|----------|
-| **Digital Marketing** | SEO, Social Media, Email, Content Marketing |
-| **Advertising** | Pay Per Click (PPC), Media Buying & Planning |
-| **Branding** | Creative, Naming, Brand Strategy |
+| Digital Marketing | SEO, Social Media, Email, Content Marketing |
+| Advertising | Pay Per Click, Media Buying & Planning |
+| Branding | Creative, Naming, Brand Strategy |
 
-### 🎨 Design
+### DESIGN
+
 | Category | Specialties |
 |----------|-------------|
-| **Websites** | Web Design, E-commerce Design |
-| **Design** | Logo, Graphic, Digital, Product, Packaging |
-| **User Experience** | UX, UI, Interaction Design |
+| Websites | Web Design, E-commerce Design |
+| Design | Logo, Graphic, Digital, Product, Packaging |
+| User Experience | UX, UI, Interaction Design |
 
-### 💼 Business Services
+### BUSINESS SERVICES
+
 | Category | Solutions |
 |----------|-----------|
-| **Sales Support** | Sales Outsourcing, Lead Generation, Appointment Setting |
-| **Customer Support** | Call Center, BPO |
-| **Financial Services** | Accounting, Payroll Processing |
-| **Virtual Services** | Virtual Assistant Services |
+| Sales Support | Sales Outsourcing, Lead Generation, Appointment Setting |
+| Customer Support | Call Center, BPO |
+| Financial Services | Accounting, Payroll Processing |
+| Virtual Services | Virtual Assistant Services |
 
 ---
 
-## 🌍 Global Presence
+## GLOBAL PRESENCE
 
-| Location | Office |
-|----------|--------|
-| **🇦🇪 UAE** | Mesk 3 - Midtown by Deyaar, Dubai Production City (IMPZ), Dubai, UAE |
-| **🇵🇰 Pakistan** | A-199, Punjabi Saudagar Society Phase 1, Sector 25-A, Scheme 33, Karachi, Sindh, Pakistan |
+**UAE Office**
+Mesk 3 - Midtown by Deyaar, Dubai Production City, Dubai, UAE
+
+**Pakistan Office**
+A-199, Punjabi Saudagar Society Phase 1, Sector 25-A, Scheme 33, Karachi, Pakistan
 
 ---
 
-## 📊 Our Impact
+## OUR IMPACT
 
 | Metric | Performance |
 |--------|-------------|
-| **Server Uptime** | 99.9% Guaranteed |
-| **Threat Mitigation** | 99.12% Rate |
-| **Cloud Migrations** | 6+ |
-| **Avg. Response Time** | 0.10ms |
-| **Certified Engineers** | 6+ |
-| **Brands Fueled** | 500+ |
+| Server Uptime | 99.9% Guaranteed |
+| Threat Mitigation | 99.12% Rate |
+| Cloud Migrations | 6+ |
+| Avg. Response Time | 0.10ms |
+| Certified Engineers | 6+ |
+| Brands Fueled | 500+ |
 
 ---
 
-## 📞 Contact Us
+## CONTACT
 
-| Method | Details |
-|--------|---------|
-| **📧 Email** | info@fortdice.com |
-| **📱 UAE** | +971 58 586 7361 |
-| **📱 Pakistan** | +92 344 3774619 |
+**Email:** info@fortdice.com
 
----
+**UAE:** +971 58 586 7361
 
-## 🔗 Social Links
-
-- 🌐 **Website:** [fortdice.com](https://fortdice.com)
-- 📘 **Facebook:** [FortDice](https://facebook.com/fortdice)
-- 📸 **Instagram:** [@fortdiceagency](https://instagram.com/fortdiceagency)
-- 🔗 **LinkedIn:** [FortDice](https://linkedin.com/company/fortdice)
-- 📌 **Pinterest:** [@fortdiceagency](https://pinterest.com/fortdiceagency)
+**Pakistan:** +92 344 3774619
 
 ---
 
-## 📄 Legal
+## SOCIAL
 
-© 2026 FortDice. All Rights Reserved.
+- Website: fortdice.com
+- Facebook: fortdice
+- Instagram: fortdiceagency
+- LinkedIn: fortdice
+- Pinterest: fortdiceagency
 
-- Privacy Policy
-- Terms of Service
-- Cookie Policy
+---
+
+## HOW WE WORK
+
+**Discovery & Strategy**
+In-depth workshops to map business goals, technical challenges, and roadmap
+
+**Design & Prototyping**
+Interactive high-fidelity prototypes to finalize interface before development
+
+**Development & Iteration**
+Agile methodology, clean code, continuous testing, regular sprint reviews
+
+**Deployment & Support**
+Performance monitoring, training, long-term stability and growth
+
+---
+
+## FAQ
+
+**What enterprise software does FortDice build?**
+
+**Do you offer cloud migration and DevOps?**
+
+**What AI solutions do you provide?**
+
+**Can you work with our existing tech stack?**
+
+---
+
+## LET'S TALK
+
+Ready to build something great? Drop us a message and we'll get back within 24 hours.
+
+Send Message
+
+Or reach out directly to info@fortdice.com
 
 ---
 
