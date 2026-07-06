@@ -1,86 +1,70 @@
 # FORTDICE
+
 ## Digital Impact. Delivered.
 
 ---
 
 ## COMPANY OVERVIEW
 
-**FortDice** is a premier full-service digital agency specializing in enterprise-grade technology solutions. We architect, build, and scale digital products that drive business transformation.
+**FortDice** is a results-driven technology partner specializing in high-performance digital solutions. We empower businesses by integrating cutting-edge technology with strategic innovation to ensure long-term scalability and security.
 
 | Metric | Value |
 |--------|-------|
-| Founded | 2020 |
-| Headquarters | Dubai, UAE |
-| Global Offices | 2 (UAE, Pakistan) |
-| Enterprise Clients | 500+ |
-| Certified Engineers | 6+ |
+| Founded | 2026 |
+| Headquarters | Karachi, Pakistan |
+| Global Offices | UAE, Pakistan |
+| Team Size | 11-50 Employees |
 | Industries Served | 15+ |
 
 ---
 
-## CORE CAPABILITIES
+## CORE EXPERTISE
 
 ### DIGITAL ENGINEERING
 
 | Practice Area | Technologies |
 |---------------|--------------|
-| Web Development | Python/Django, PHP/Laravel, .NET Core, React, Angular |
-| Mobile Engineering | React Native, Flutter, iOS (Swift), Android (Kotlin) |
-| CMS Solutions | WordPress Enterprise, Drupal, Webflow, Shopify Plus |
-| Software Development | Custom ERP, CRM, BI Tools, Legacy Modernization |
+| Web & Mobile Engineering | Custom Web Applications, Cross-Platform Mobile (iOS/Android), React Native, Flutter |
+| Mobile Applications | Android, iOS, Cross-Platform Development |
+| Backend Development | REST APIs, System Integrations, Middleware Solutions |
+| Startup Solutions | Product Strategy, MVP Development, Scaling Support |
 
 ### CLOUD & INFRASTRUCTURE
 
-| Practice Area | Technologies |
+| Practice Area | Capabilities |
 |---------------|--------------|
-| Cloud Platforms | AWS (Certified), Microsoft Azure, Google Cloud Platform |
-| DevOps | Docker, Kubernetes, Jenkins, GitLab CI/CD, Terraform |
-| Database | PostgreSQL, MySQL, MongoDB, DynamoDB, SQL Server |
-| Security | SOC2 Compliance, Penetration Testing, IAM, Encryption |
+| Cloud Integration | Scalable Cloud Solutions, Infrastructure Management |
+| DevOps | CI/CD Pipelines, Automation, Containerization |
+| Offshore Services | Dedicated Development Teams, Project Outsourcing |
 
-### ENTERPRISE AI
+### DATA & AI
 
 | Practice Area | Capabilities |
 |---------------|--------------|
-| Machine Learning | Supervised/Unsupervised Learning, Deep Learning |
-| NLP | Chatbots, Sentiment Analysis, Text Classification |
-| Computer Vision | Object Detection, Image Recognition, OCR |
-| Process Automation | RPA, Intelligent Document Processing, Workflow Automation |
+| AI Voice Agents | Intelligent, Human-like Interactions, Automated Customer Engagement |
+| Fintech Solutions | Secure, Scalable, Innovative Financial Systems |
+| Machine Learning | ML, Natural Language Processing (NLP), Sentiment Analysis |
+| Data Analytics | Advanced Analytics, Big Data, Data Visualization, Business Insights |
+| Intelligent Automation | Process Automation, Workflow Optimization |
 
-### BUSINESS SOLUTIONS
+### STRATEGIC SERVICES
 
 | Practice Area | Services |
 |---------------|----------|
-| Digital Marketing | SEO, SEM, Content Marketing, Marketing Automation |
-| Design | UX/UI, Product Design, Brand Identity, Design Systems |
-| Consulting | Digital Strategy, IT Consulting, Change Management |
-| Support | Managed Services, 24/7 Support, Help Desk |
-
----
-
-## INDUSTRY EXPERTISE
-
-| Industry | Solutions |
-|----------|-----------|
-| **Finance & Banking** | Core Banking Systems, Trading Platforms, Payment Gateways |
-| **Healthcare** | EHR Systems, Telemedicine, Patient Portals |
-| **Retail & E-commerce** | Custom E-commerce, Omnichannel Solutions, Inventory Management |
-| **Education** | LMS, Student Management, Online Learning Platforms |
-| **Logistics** | Fleet Management, Supply Chain, Route Optimization |
-| **Real Estate** | Property Management, CRM, Virtual Tours |
+| Cybersecurity | Compliance, Security Protocols, Digital Asset Protection |
+| Strategic Marketing | Data-Driven Marketing, Brand Visibility, Digital Campaigns |
+| Consulting | Technology Strategy, Digital Transformation |
 
 ---
 
 ## TECHNOLOGY PARTNERSHIPS
 
-| Partner | Tier |
-|---------|------|
-| **Microsoft** | Gold Partner |
-| **AWS** | Advanced Consulting Partner |
-| **Google Cloud** | Partner |
-| **Salesforce** | Consulting Partner |
-| **Shopify** | Plus Partner |
-| **WordPress** | VIP Partner |
+| Partner | Specialization |
+|---------|----------------|
+| Microsoft | Azure, .NET, Enterprise Solutions |
+| AWS | Cloud Infrastructure, DevOps |
+| Google Cloud | AI/ML, Data Analytics |
+| Salesforce | CRM Integration, Enterprise Solutions |
 
 ---
 
@@ -88,8 +72,8 @@
 
 | Region | Location | Contact |
 |--------|----------|---------|
-| **Middle East** | Mesk 3 - Midtown by Deyaar, Dubai Production City, Dubai, UAE | +971 58 586 7361 |
-| **South Asia** | A-199, Punjabi Saudagar Society Phase 1, Sector 25-A, Scheme 33, Karachi, Pakistan | +92 344 3774619 |
+| UAE | Dubai Office | +971 58 586 7361 |
+| Pakistan | House No. A-199, Punjabi Saudagar Society Phase 1, Sector 25-A, Scheme 33, Karachi, Sindh | +92 344 3774619 |
 
 ---
 
@@ -97,48 +81,69 @@
 
 | Phase | Description | Duration |
 |-------|-------------|----------|
-| **1. Discovery** | Requirements gathering, architecture planning, feasibility assessment | 1-3 weeks |
-| **2. Design** | UX prototyping, UI design, design system creation | 2-4 weeks |
-| **3. Development** | Agile sprints, CI/CD, code review, QA testing | 4-12 weeks |
-| **4. Deployment** | Release management, production rollout, monitoring setup | 1-2 weeks |
-| **5. Support** | SLA-based support, maintenance, optimization | Ongoing |
+| 1. Discovery | Requirements analysis, architecture planning, feasibility assessment | 1-3 weeks |
+| 2. Design | UX/UI design, prototyping, system architecture finalization | 2-4 weeks |
+| 3. Development | Agile sprints, CI/CD, code reviews, QA testing | 4-12 weeks |
+| 4. Deployment | Release management, production rollout, monitoring | 1-2 weeks |
+| 5. Support | Managed services, 24/7 support, maintenance | Ongoing |
 
 ---
 
-## SERVICE LEVEL AGREEMENTS
+## SERVICE CAPABILITIES
 
-| KPI | Commitment |
-|-----|------------|
-| Server Uptime | 99.9% Guaranteed |
-| Threat Mitigation | 99.12% Rate |
-| API Response Time | < 100ms |
-| Incident Response | < 30 minutes |
-| Resolution Time | < 4 hours (Critical) |
-| Cloud Migration | 6+ Completed |
+### What We Build
+
+- AI Voice Agents - Intelligent, human-like interactions for customer engagement
+- Fintech Solutions - Secure, scalable financial systems
+- Machine Learning Systems - NLP, Sentiment Analysis, Predictive Models
+- Data Analytics Platforms - Big Data, Visualization, Business Intelligence
+- Intelligent Automation - Process automation, workflow optimization
+- REST APIs & Integrations - Seamless connectivity across platforms
+- Mobile Applications - Android, iOS, Cross-platform
+- Middleware Solutions - System integration and orchestration
+- Startup Products - Strategy, MVP, scaling support
+
+### Industries We Serve
+
+| Industry | Solutions |
+|----------|-----------|
+| Finance & Banking | Fintech Platforms, Payment Systems, Trading Applications |
+| Healthcare | Telemedicine, Patient Management, Diagnostics Tools |
+| Retail & E-commerce | E-commerce Platforms, Inventory Management, Omnichannel |
+| Education | Learning Management Systems, Student Portals |
+| Logistics | Fleet Management, Supply Chain Optimization |
+| Technology | SaaS Platforms, Enterprise Software, AI Solutions |
 
 ---
 
-## PORTFOLIO HIGHLIGHTS
+## CURRENT OPENINGS
 
-| Client | Sector | Solution |
-|--------|--------|----------|
-| *Confidential* | Finance | Trading Platform, 2M+ Users |
-| *Confidential* | Healthcare | AI-Powered Diagnostics, 500+ Clinics |
-| *Confidential* | E-commerce | Enterprise Platform, $50M+ Revenue |
-| *Confidential* | Logistics | Fleet Optimization, 10,000+ Vehicles |
-| *Confidential* | Education | LMS, 200,000+ Students |
+FortDice is actively hiring for multiple positions in Karachi, Pakistan:
+
+| Position | Experience | Type |
+|----------|------------|------|
+| Senior Full Stack Developer | 5+ Years | Full-time, Onsite |
+| DevOps Engineer | 3+ Years | Full-time, Onsite |
+| Cyber Security Specialist | Experienced | Full-time, Onsite |
+| Mobile App Developer | 2-4 Years | Full-time, Onsite |
+| Video Editor | 2-4 Years | Full-time, Onsite |
+| Sales Agent | 4-5 Years | Full-time, Night Shift |
+| Cold Calling Specialist | Experienced/Entry | Full-time, Onsite |
+| HR Intern | Entry Level | Full-time, Onsite |
+| Receptionist (Female) | Entry Level | Full-time, Onsite |
+
+**Apply Now:** Send your resume to career@fortdice.com or call +971-58-586-7361
 
 ---
 
-## MEET THE LEADERSHIP
+## WHY FORTDICE
 
-| Name | Title | Expertise |
-|------|-------|-----------|
-| *Name* | CEO & Founder | Strategy, Enterprise Sales |
-| *Name* | CTO | Cloud Architecture, AI/ML |
-| *Name* | Head of Engineering | Product Development, Agile |
-| *Name* | Head of Design | UX/UI, Product Design |
-| *Name* | Head of Marketing | Digital Strategy, Branding |
+- Results-Driven - Focused on delivering measurable business outcomes
+- Innovation-First - Leveraging cutting-edge AI and technology
+- Security-Focused - Comprehensive cybersecurity and compliance
+- Global Reach - Serving clients across UAE, Pakistan, and globally
+- Talent-First - Building high-performing teams and culture
+- Scalability - Solutions designed for long-term growth
 
 ---
 
@@ -146,72 +151,53 @@
 
 | Channel | Details |
 |---------|---------|
-| **Email** | info@fortdice.com |
-| **Website** | fortdice.com |
-| **LinkedIn** | /company/fortdice |
-| **Instagram** | @fortdiceagency |
-| **Facebook** | /fortdice |
-| **Pinterest** | @fortdiceagency |
+| Email | info@fortdice.com |
+| Website | fortdice.com |
+| LinkedIn | /company/fortdice |
+| Instagram | @fortdiceagency |
+| Facebook | /fortdice |
+| Pinterest | @fortdiceagency |
+| UAE Phone | +971 58 586 7361 |
+| Pakistan Phone | +92 344 3774619 |
 
 ---
 
-## CONNECT WITH US
-
-- [🌐 Website](https://fortdice.com)
-- [📧 Email](mailto:info@fortdice.com)
-- [🔗 LinkedIn](https://linkedin.com/company/fortdice)
-- [📸 Instagram](https://instagram.com/fortdiceagency)
-- [📘 Facebook](https://facebook.com/fortdice)
-- [📌 Pinterest](https://pinterest.com/fortdiceagency)
-
-
 ## FREQUENTLY ASKED QUESTIONS
 
-<details>
-<summary><strong>What types of enterprise solutions does FortDice build?</strong></summary>
+**What types of AI solutions does FortDice provide?**
 
-We develop custom enterprise solutions including ERP systems, CRM platforms, trading systems, healthcare applications, e-commerce platforms, logistics management, and AI-powered business intelligence tools.
+We deliver advanced AI Voice Agents for intelligent customer engagement, Machine Learning models for predictive analytics, Natural Language Processing for text analysis, and Intelligent Automation for business process optimization. Our AI solutions are designed to be scalable and integrate seamlessly with existing systems.
 
-</details>
+**What mobile development services do you offer?**
 
-<details>
-<summary><strong>What is your cloud expertise?</strong></summary>
+We build high-quality mobile applications for Android, iOS, and cross-platform using React Native and Flutter. Our team handles the complete lifecycle from concept to app store deployment, with expertise in performance optimization, UI/UX design, and backend integration.
 
-We are certified partners with AWS, Microsoft Azure, and Google Cloud Platform. We handle cloud migrations, hybrid cloud deployments, cloud-native development, and DevOps implementation.
+**Do you provide cloud and DevOps services?**
 
-</details>
+Yes, we specialize in scalable cloud integration across AWS, Azure, and Google Cloud platforms. Our DevOps services include CI/CD pipeline automation, containerization with Docker/Kubernetes, infrastructure as code, and comprehensive monitoring solutions.
 
-<details>
-<summary><strong>What security certifications do you hold?</strong></summary>
+**What is your cybersecurity approach?**
 
-We follow SOC2 compliance standards, ISO 27001 best practices, and implement enterprise-grade security including encryption, IAM, penetration testing, and vulnerability assessment.
+We provide comprehensive cybersecurity including security protocols, compliance standards (SOC2, ISO 27001), penetration testing, IAM, encryption, and continuous monitoring. Our team ensures your digital assets are protected against evolving threats.
 
-</details>
+**Can you help with startup product development?**
 
-<details>
-<summary><strong>Can you integrate with our existing systems?</strong></summary>
-
-Yes, we design solutions that seamlessly integrate with existing infrastructure, legacy systems, third-party APIs, and enterprise software through robust API-first architecture.
-
-</details>
-
-<details>
-<summary><strong>What is your client retention rate?</strong></summary>
-
-We maintain a 95% client retention rate through our commitment to quality, transparency, and long-term partnership approach.
-
-</details>
+Absolutely! We offer end-to-end support for startup product strategy, MVP development, technology architecture, and scaling. Our team works closely with founders to turn ideas into market-ready products while ensuring technical excellence and scalability.
 
 ---
 
 ## PARTNER WITH US
 
-**Why Choose FortDice?**
+Ready to transform your business with cutting-edge technology? Let's build something great together.
 
-- ✅ 500+ Enterprise Success Stories
-- ✅ Certified Global Technology Partners
-- ✅ AI-First Development Approach
-- ✅ End-to-End Service Delivery
-- ✅ 24/7 Support and Monitoring
-- ✅ ISO & SOC2 Compliant Processes
+**Get Started Today**
 
+Email: info@fortdice.com
+Website: fortdice.com
+UAE: +971 58 586 7361
+Pakistan: +92 344 3774619
+
+---
+
+*Future-Proof Your Business.*
+*Reliable Today. Exceptional Tomorrow.*
