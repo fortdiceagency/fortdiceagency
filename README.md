@@ -164,23 +164,6 @@
 - [📘 Facebook](https://facebook.com/fortdice)
 - [📌 Pinterest](https://pinterest.com/fortdiceagency)
 
----
-
-## CAREERS
-
-**Join Our Team**
-
-| Position | Location | Type |
-|----------|----------|------|
-| Senior Full-Stack Developer | Dubai/Karachi | Full-Time |
-| Cloud Architect | Dubai | Full-Time |
-| UX/UI Designer | Karachi | Full-Time |
-| AI/ML Engineer | Remote | Full-Time |
-| DevOps Engineer | Dubai | Full-Time |
-
-**Apply Now:** Send your CV to [careers@fortdice.com](mailto:careers@fortdice.com)
-
----
 
 ## FREQUENTLY ASKED QUESTIONS
 
@@ -232,17 +215,3 @@ We maintain a 95% client retention rate through our commitment to quality, trans
 - ✅ 24/7 Support and Monitoring
 - ✅ ISO & SOC2 Compliant Processes
 
----
-
-<div align="center">
-
-## *Future-Proof Your Business.*
-## *Reliable Today. Exceptional Tomorrow.*
-
----
-
-**© 2026 FortDice. All Rights Reserved.**
-
-Privacy Policy | Terms of Service | Cookie Policy
-
-</div>
